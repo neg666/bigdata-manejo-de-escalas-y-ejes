@@ -1,0 +1,9 @@
+
+.textBar{
+	fill: black;
+	text-anchor: middle;
+	font-size: 6px;
+}
+.bar:hover{
+	fill:blue;
+}
